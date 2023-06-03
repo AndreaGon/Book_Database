@@ -1,0 +1,73 @@
+
+Hunger Games
+24893434
+Suzanne Collins
+Simon & Cluster
+2003
+1
+49
+50
+50
+Catching Fire
+18374234
+Suzanne Collins
+Scholastic
+2009
+2
+58
+34.5
+50
+Mockingjay
+9780439023542
+Suzanne Collins
+Scholastic Corporation
+2010
+3
+140
+34.5
+25.5
+The Chamber of Secrets
+43849345934
+J.K. Rowling
+Bloomsberry
+2006
+2
+200
+40
+30
+Harry Potter
+12489425987
+J.K. Rowling
+Bloomsberry
+2006
+1
+195
+35.5
+34.5
+Harry Potter
+1234567
+JK Rowling
+Bloomsberry
+0
+1
+196
+35.5
+34.5
+The Familiars
+12345
+Na
+Na
+0
+1
+196
+35.5
+34.5
+Jekyll
+12345678
+Na
+Na
+2008
+2
+1
+23
+10
